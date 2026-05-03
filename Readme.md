@@ -1,3 +1,7 @@
+## To execute:
+    Upload the sketch and run the mic bridge python script. 
+    Serial port should not be used by any other application while running py script.
+
 ## Steps to Get Started
 
 
